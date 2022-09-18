@@ -1,13 +1,12 @@
-# ExtractPPT
-extract PPT from  Mobile photos
+# 提取ppt
 
 有时，我们会用手机拍摄课堂上的PPT，但是由于角度，光照等，照片质量不佳，后期回看时很费眼睛。
 
 因此我决定使用opencv对相册中的图片进行批量操作，实现这样的效果：
 
-![IMG_20210615_151232](http://cdn.lcx-blog.top/img/IMG_20210615_151232.jpg)
+![image-20220918204046819](http://cdn.lcx-blog.top/img/image-20220918204046819.png)
 
-![IMG_20210615_151232](D:\justplay\python\findppts\processed\IMG_20210615_151232.jpg)
+
 
 ## 实现逻辑
 
